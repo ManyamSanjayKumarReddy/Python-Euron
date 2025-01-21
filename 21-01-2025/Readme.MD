@@ -1,6 +1,4 @@
 
-
-```markdown
 # Python Installation and Basic Data Types
 
 ## Overview
@@ -125,5 +123,3 @@ print(greet("Sanju"))
 
 This document serves as a reference guide to ensure a smooth learning and recording process.
 ```
-
-You can copy and save this as `README.md` for your project. Let me know if you need any adjustments!
