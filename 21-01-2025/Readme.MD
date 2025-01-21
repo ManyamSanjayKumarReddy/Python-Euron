@@ -122,4 +122,3 @@ print(greet("Sanju"))
 ---
 
 This document serves as a reference guide to ensure a smooth learning and recording process.
-```
